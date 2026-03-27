@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Astrid, a Data Analyst based in the United States. 
+I’m Astrid, a Data Analyst based in the United States with a big love for data science, analytics, and coding. Even after completing my Master’s, I’ve kept growing by teaching myself new tools and techniques.
 
-I mostly work on data analysis stuff - Tableau, R, Python, and SQL with some Javascript, CSS, and HTML on the side. 
+My day-to-day world revolves around Tableau, R, Python, and SQL, with a bit of JavaScript, CSS, and HTML sprinkled in.
 
-This is my github profile where I'll be uploading some smaller projects, experiments, and thing's I'm currently working on. Everything here is built from scratch, no copy/paste template. 
+This GitHub is where I share smaller projects, experiments, and works‑in‑progress. Every piece is built from scratch — no templates, just creativity and clean code.
 
 
 ## Tools & Tech 
- - Tableau, VisualStudio, MSS SQLserver, Rstudio
+ - Tableau, Visual Studio, MSS SQL Server, RStudio
 
 
 ## A Bit About Me
