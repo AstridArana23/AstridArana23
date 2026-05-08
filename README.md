@@ -7,13 +7,19 @@ My day-to-day world revolves around Tableau, R, Python, and SQL, with a bit of J
 This GitHub is where I share smaller projects, experiments, and works‑in‑progress. Every piece is built from scratch: no templates, just creativity and clean code. 
 
 
-## Tools & Tech 
- - Tableau, Visual Studio, MSS SQL Server, RStudio
+## Skills & Expertise 
+💻 Programming Languages: Python, SQL, R
+🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, RStudio, Tableau
+🗄️ Databases: Postgresql, MSS SQL Server
+☁️ Cloud & DevOps: Docker, Amazon Web Services
+📝 Certifications: CodePath: Advanced Web Development, CodePath: Intermediate Web Development
 
 ## Currently learning
 - Javascript
 - Cloud Computing
 - AWS Cloud Practitioner lessons
+- Java, C, C++, HTML, CSS, Typescript
+- 🌐 Web Development: Node JS, React, Angular
 
 
 ## A Bit About Me
