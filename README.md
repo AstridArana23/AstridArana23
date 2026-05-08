@@ -7,25 +7,17 @@ My day-to-day world revolves around Tableau, R, Python, and SQL, with a bit of J
 This GitHub is where I share smaller projects, experiments, and works‑in‑progress. Every piece is built from scratch: no templates, just creativity and clean code. 
 
 
-## Skills & Expertise 
+##🛠️ Skills & Expertise 
 💻 Programming Languages: Python, SQL, R
-🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, RStudio, Tableau
-🗄️ Databases: Postgresql, MSS SQL Server
-☁️ Cloud & DevOps: Docker, Amazon Web Services
+🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau
+🗄️ Databases: MSS SQL Server
 📝 Certifications: CodePath: Advanced Web Development, CodePath: Intermediate Web Development
 
-## Currently learning
-- Javascript
-- Cloud Computing
-- AWS Cloud Practitioner lessons
-- Java, C, C++, HTML, CSS, Typescript
-- 🌐 Web Development: Node JS, React, Angular
-
-
-## A Bit About Me
-
-- I have two cats
-- I love matcha
+## 📚 Currently Learning
+- Languages: JavaScript,  Java, C, C++, HTML, CSS, Typescript
+- Cloud & DevOps: Amazon Web Services Cloud Practitioner lessons, Docker
+- Databases: Postgresql
+- Web Development: Node JS, React, Angular
 
 <!--
 **AstridArana23/AstridArana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
