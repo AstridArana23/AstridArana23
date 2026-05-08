@@ -11,13 +11,14 @@ This GitHub is where I share smaller projects, experiments, and works‑in‑pro
 - 💻 Programming Languages: Python, SQL, R
 - 🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau
 - 🗄️ Databases: MSS SQL Server
-- 📝 Certifications: CodePath: Advanced Web Development, CodePath: Intermediate Web Development
+- 📝 Certifications: IBM Data Analyst Certification
 
 ## 📚 Currently Learning
 - Languages: JavaScript,  Java, C, C++, HTML, CSS, Typescript
 - Cloud & DevOps: Amazon Web Services Cloud Practitioner lessons, Docker
 - Databases: Postgresql
 - Web Development: Node JS, React, Angular
+- Certification: Microsoft Full Developer Cert. IBM Data Science Cert.
 
 <!--
 **AstridArana23/AstridArana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
