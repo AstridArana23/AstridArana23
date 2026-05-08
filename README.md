@@ -21,7 +21,7 @@ This GitHub is where I share smaller projects, experiments, and works‑in‑pro
 - Certification: Microsoft Full Developer Cert. IBM Data Science Cert.
 
 
-## 🌐 Socials
+## 🌐 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/astrid-arana-rivera-51a4a3229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aranaastrid231@gmail.com) 
 
 ## 💻 Tech Stack
