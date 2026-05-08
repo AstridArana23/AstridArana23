@@ -7,11 +7,11 @@ My day-to-day world revolves around Tableau, R, Python, and SQL, with a bit of J
 This GitHub is where I share smaller projects, experiments, and works‑in‑progress. Every piece is built from scratch: no templates, just creativity and clean code. 
 
 
-##🛠️ Skills & Expertise 
-💻 Programming Languages: Python, SQL, R
-🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau
-🗄️ Databases: MSS SQL Server
-📝 Certifications: CodePath: Advanced Web Development, CodePath: Intermediate Web Development
+## 🛠️ Skills & Expertise 
+- 💻 Programming Languages: Python, SQL, R
+- 🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau
+- 🗄️ Databases: MSS SQL Server
+- 📝 Certifications: CodePath: Advanced Web Development, CodePath: Intermediate Web Development
 
 ## 📚 Currently Learning
 - Languages: JavaScript,  Java, C, C++, HTML, CSS, Typescript
