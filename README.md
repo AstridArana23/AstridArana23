@@ -13,7 +13,7 @@ This GitHub is where I share smaller projects, experiments, and works‑in‑pro
 - 🗄️ Databases: MSS SQL Server
 - 📝 Certifications: IBM Data Analyst Certification
 
-## 📚 Currently Learning
+## 📚 Currently/ Planning on Learning
 - Languages: JavaScript,  Java, C, C++, HTML, CSS, Typescript
 - Cloud & DevOps: Amazon Web Services Cloud Practitioner lessons, Docker
 - Databases: Postgresql
