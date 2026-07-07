@@ -9,16 +9,16 @@ This GitHub is where I share smaller projects, experiments, and works‑in‑pro
 
 ## 🛠️ Skills & Expertise 
 - 💻 Programming Languages: Python, SQL, R
-- 🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau
+- 🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau, Matplotlib
 - 🗄️ Databases: MSS SQL Server
 - 📝 Certifications: IBM Data Analyst Certification
 
 ## 📚 Currently/ Planning on Learning
-- Languages: JavaScript,  Java, C, C++, HTML, CSS, Typescript
+- Languages: JavaScript,  Java, C, C++, C#, Rust
 - Cloud & DevOps: Amazon Web Services Cloud Practitioner lessons, Docker
 - Databases: Postgresql
-- Web Development: Node JS, React, Angular
-- Certification: Microsoft Full Developer Cert. IBM Data Science Cert.
+- Web Development: Node JS, React, Angular, CSS, HTML
+- Certification: IBM Data Science Cert.
 
 
 ## 🌐 Let's Connect
