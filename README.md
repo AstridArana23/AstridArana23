@@ -9,7 +9,7 @@ This GitHub is where I share smaller projects, experiments, and works‑in‑pro
 
 ## 🛠️ Skills & Expertise 
 - 💻 Programming Languages: Python, SQL, R
-- 🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, Sci-kit Learn, Pandas, Numpy, Tableau, Matplotlib
+- 🤖 Data & Machine Learning: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Tableau, Matplotlib, Seaborn
 - 🗄️ Databases: MSS SQL Server
 - 📝 Certifications: IBM Data Analyst Certification
 
